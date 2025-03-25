@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository,
 <br>
-author - safa mahin 
+author - safa mahin (apnacollege) 
